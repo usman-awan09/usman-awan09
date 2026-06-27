@@ -39,3 +39,11 @@
 ![Adobe%20Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?logo=adobefonts&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+## GitHub Stats
+
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usman-awan09&show_icons=true)
+
+## Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=usman-awan09)
