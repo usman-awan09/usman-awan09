@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Usman 👋
 
-<!--
-**usman-awan09/usman-awan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Doing BSc(Hons) in Computer Science
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Machine Learning Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals for 2026:
+- Build consistent projects
+- Improve problem-solving skills
+- Learn web development
+
+🎯 Interested In:
+- Cyber Security
+- Artificial Intelligence 
+- Software Development
+
+📫 Reach Me:
+- Email: usmann.awan07@gmail.com
