@@ -1,8 +1,13 @@
-# Hi, I'm Usman 👋
+<p align="center">
+  <img src="Banner.png" />
+</p>
+
+
 
 🎓 Doing BSc(Hons) in Computer Science
 
 💻 Exploring software development, machine learning, and problem solving.
+
 
 🌱 Currently learning:
 - C++
