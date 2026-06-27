@@ -2,14 +2,16 @@
 
 🎓 Doing BSc(Hons) in Computer Science
 
-💻 Currently Learning:
+💻 Exploring software development, machine learning, and problem solving.
+
+🌱 Currently learning:
 - C++
 - Python
 - Data Structures & Algorithms
 - Git & GitHub
 - Machine Learning Fundamentals
 
-🚀 Goals for 2026:
+🚀 Goals
 - Build consistent projects
 - Improve problem-solving skills
 - Learn web development
@@ -18,6 +20,3 @@
 - Cyber Security
 - Artificial Intelligence 
 - Software Development
-
-📫 Reach Me:
-- Email: usmann.awan07@gmail.com
