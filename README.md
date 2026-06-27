@@ -39,6 +39,8 @@
 ![Adobe%20Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?logo=adobefonts&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
 
 ## GitHub Stats
 
